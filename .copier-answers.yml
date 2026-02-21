@@ -1,0 +1,22 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v2.0.1
+_src_path: https://github.com/napari/napari-plugin-template
+display_name: Mask Curator
+email: liyaohua12345@foxmail.com
+full_name: Yaohua Li
+github_repository_url: provide later
+github_username_or_organization: 'yaohualee1215-bit
+
+    '
+include_reader_plugin: true
+include_sample_data_plugin: true
+include_widget_plugin: true
+include_writer_plugin: true
+install_dependabot: true
+install_precommit: true
+license: BSD-3
+module_name: napari_mask_curator
+plugin_name: napari-mask-curator
+short_description: 'Manual curation in napari: quickly pick the best cell/nuclei masks
+    from segmentation outputs (Cellpose/Baysor/parameter sweeps), with new IDs, undo,
+    overlap pruning, compact save, and fast logging.'
