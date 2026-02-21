@@ -82,3 +82,12 @@ venv/
 
 # written by setuptools_scm
 **/_version.py
+
+# local outputs / caches
+curation_logs/
+manual_best_*.tif
+manual_best_id_map_old_to_new.tsv
+*.bak
+.DS_Store
+.Rhistory
+__pycache__/
