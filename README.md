@@ -4,6 +4,7 @@ A napari plugin for **manual curation and selection of the best cell/nuclei mask
 produced by segmentation software (e.g., Cellpose, Baysor, parameter sweeps).
 It is designed for workflows where you generate multiple candidate masks and then
 **quickly pick the best instance per cell** inside napari with full traceability.
+Tutorial video: https://www.youtube.com/watch?v=pyQ0EoLM-v8
 
 ## Key features
 
